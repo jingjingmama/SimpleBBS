@@ -1,0 +1,19 @@
+//
+//  Experience-Prefix.pch
+//  Experience
+//
+//  Created by 麻菁菁 on 16/2/22.
+//  Copyright © 2016年 麻菁菁. All rights reserved.
+//
+
+#ifndef Experience_Prefix_pch
+#define Experience_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Experience_Prefix_pch */
+
+#define kScreenWidth  [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kScreenBounds [UIScreen mainScreen].bounds
